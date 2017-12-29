@@ -1,4 +1,5 @@
 # CSCI-246-Booths-Multiplication-Algorithm
+This Project is done in C++.
 This Program is to build a simulator for the Booth’s 2’s
 complement number multiplier. In this practice, I used 16-bit operands for the 
 multiplication, i.e., 16-bit multiplicand, 16-bit multiplier,
